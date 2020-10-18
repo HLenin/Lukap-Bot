@@ -1,6 +1,6 @@
 # Lukap-Bot
 
-![Discord](https://img.shields.io/discord/766506394119045191?color=%237289da&label=%20&logo=Discord&logoColor=white)
+![Discord](https://img.shields.io/discord/766506394119045191?labelColor=%236979B2&color=%237289da&label=%20%20%20&logo=discord&logoColor=white&style=flat)
 
 
 
