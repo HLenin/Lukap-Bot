@@ -1,4 +1,4 @@
-# Lukap-Bot <img align="right" width="256" height="256" src="https://images-ext-2.discordapp.net/external/viWTcJ-qsZqF7doJZTZDqLesPYUy6t7Bhnxr8ySSL-4/%3Fsize%3D256/https/cdn.discordapp.com/avatars/765373911952261120/f5c9cb7dd3aeb16a509be442c62442e3.png">
+# Lukap-Bot <img align="right" width="256" height="256" src="https://i.imgur.com/Xj7IyLy.png">
 
 <a href="https://discord.gg/MAevWVr"><img alt="Discord" src="https://img.shields.io/discord/766506394119045191?labelColor=%236979B2&color=%237289da&label=%20%20%20&logo=discord&logoColor=white&style=flat"></a>  ![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m786131345-77e4d8f3b97de7a79b7f0869?label=Uptime)
 
