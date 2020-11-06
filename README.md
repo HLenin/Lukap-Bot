@@ -6,5 +6,5 @@
 The perfect discord bot for searching and receiving information, moderating your server easily, and also entertaining you and your members.
 It can do but not limited to: giving Google search results, telling the weather of a place, defining words from urban or merriam-webster's dictionary, warning, muting, kicking, and banning members.
 
-Prefix: `&l` | [Invite](https://discord.com/oauth2/authorize?client_id=765373911952261120&permissions=2146958847&scope=bot) | [Wiki](https://github.com/HLenin/Lukap-Bot/wiki/)
+Prefix: `,,` | [Invite](https://discord.com/oauth2/authorize?client_id=765373911952261120&permissions=2146958847&scope=bot) | [Wiki](https://github.com/HLenin/Lukap-Bot/wiki/)
 
