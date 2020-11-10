@@ -1,6 +1,6 @@
 # Lukap-Bot <img align="right" width="256" height="256" src="https://i.imgur.com/Xj7IyLy.png">
 
-<a href="https://discord.gg/MAevWVr"><img alt="Discord" src="https://img.shields.io/discord/766506394119045191?labelColor=%236979B2&color=%237289da&label=%20%20%20&logo=discord&logoColor=white&style=flat"></a>  ![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m786131345-77e4d8f3b97de7a79b7f0869?label=Uptime)
+<a href="https://discord.gg/MAevWVr"><img alt="Discord" src="https://img.shields.io/discord/766506394119045191?labelColor=%236979B2&color=%237289da&label=%20%20%20&logo=discord&logoColor=white&style=flat"></a>  ![Uptime Robot ratio (7 days)](https://img.shields.io/uptimerobot/ratio/7/m786131345-77e4d8f3b97de7a79b7f0869?label=Uptime)  ![Uptime Robot status](https://img.shields.io/uptimerobot/status/m786131345-77e4d8f3b97de7a79b7f0869?color=green&label=Status)
 
 
 The perfect discord bot for searching and receiving information, moderating your server easily, and also entertaining you and your members.
